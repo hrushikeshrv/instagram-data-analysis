@@ -1,5 +1,5 @@
 # instagram-data-analysis
-> A Jupyter Notebook/Google Colab for analyzing your Instagram profile data
+> A Jupyter Notebook/Google Colab for analyzing your Instagram profile data. GUI coming soon.
 
 Hi! You'll need to request Instagram to send you your data before you can analyze it using this notebook. To do that, go to the Instagram app > Settings > Security > Download Data.
 
